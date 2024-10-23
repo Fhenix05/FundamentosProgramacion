@@ -22,4 +22,4 @@ v1 = (variable1*10)/100
 v2 = (variable2*10)/100
 v3 = (variable3*10)/100
 dinero = (sueldo + v1 + v2 + v3)
-print(dinero , "pesos")
+print("Tu sueldo es", dinero , "pesos")
